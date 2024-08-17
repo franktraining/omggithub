@@ -7,5 +7,9 @@ public class Gitpractice {
 		System.out.println("this is first git project i am learning!!");
 		System.out.println("this is first git project i am learning!!");
 		System.out.println("this is first git project i am learning!!");
+		System.out.println("this is first git project i am learning!!");
+		System.out.println("this is first git project i am learning!!");
+		System.out.println("this is first git project i am learning!!");
+		System.out.println("this is first git project i am learning!!");
 	}
 }
