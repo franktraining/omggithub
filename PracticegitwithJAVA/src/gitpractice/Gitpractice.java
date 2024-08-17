@@ -15,5 +15,9 @@ public class Gitpractice {
 		System.out.println("OMG GITHUB");
 		System.out.println("OMG GITHUB");
 		System.out.println("OMG GITHUB");
+		System.out.println("--------------------");
+		 for (int i = 0; i < 3; i++) {
+            System.out.println("HelloWorld");
+        }
 	}
 }
